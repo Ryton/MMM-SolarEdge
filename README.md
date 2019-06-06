@@ -32,5 +32,6 @@ A Solar Module for MagicMirror2 designed to integrate with a SolarEdge System
 
 ## API Key
 Use of this module requires
-  1. An API Key, which you can obtain by emailing SolarEdge support (e.g support-uk@solaredge.com )
+  1.a An API Key, which you can obtain by emailing SolarEdge support (e.g support-uk@solaredge.com )
+  1.b on the solar-edge monitoring website (monitoring.solaredge.com/solaredge-web) under siteID /#/admin/siteAccess/, you can request your API key directly
   2. The Site ID of the SolarEdge system you wish to monitor, which can be found in the Dashboard https://monitoring.solaredge.com
